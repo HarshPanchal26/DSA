@@ -1,0 +1,5 @@
+tabuation ----> bottom up 
+memoiation --->top-down
+overlapping sub-problem (problem in recuersion )
+
+memoization - we tend to store value of sub-problem in some map/table
